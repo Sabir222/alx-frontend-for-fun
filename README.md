@@ -1,2 +1,2 @@
 # alx-frontend-for-fun
-Chat server with Nodejs client can send message between then , Project to practice Nodejs networking
+Yoooooo, frontend is fun, been wanting to dive deeper here I am swimming in the ocean of it's awesomeness. Wooohooo!!!
